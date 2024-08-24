@@ -1,1 +1,2 @@
-# GW-CS6365
+# GW-ML
+Lecture notebooks of the ML course
