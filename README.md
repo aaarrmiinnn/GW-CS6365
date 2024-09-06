@@ -9,7 +9,7 @@ This repo is organized as follows.
 ```
 .
 ├── README.md
-├── slides.               # Course slides 
+├── Lectures...               # Course slides 
 └── requirements.txt      # Packages needed for your virtualenv
 ```
 
