@@ -31,5 +31,7 @@ In a new `virtualenv`, run this:
 pip install -r requirements.txt
 ```
 
-Credits: The slides and course materials are collected from multiple sources. Including the
-ML course thought by Xavier Amatriain at SPHERE, 
+Credits: The slides and course materials are collected from multiple sources. Including,
+- the ML course thought by Xavier Amatriain at SPHERE
+- Stanford CS224W (https://web.stanford.edu/class/cs224w/)
+- Poolparty graph academy (https://www.poolparty.biz/academy)
