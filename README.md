@@ -1,5 +1,8 @@
 # GWU CS6365 - Advanced Machine Learning
 
+**Course Numbers:** CSCI-4907-87 / CSCI-6365-80  
+**Alternative Name:** Advanced Topics Computer Science
+
 This repository contains executable Jupyter notebook lectures for CS6365 Advanced Machine Learning at The George Washington University (Fall 2025 edition).
 
 ## 📋 Course Information

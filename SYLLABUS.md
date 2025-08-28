@@ -1,5 +1,7 @@
 # Advanced Machine Learning (CS6365)
 
+**Course Numbers:** CSCI-4907-87 / CSCI-6365-80  
+**Alternative Name:** Advanced Topics Computer Science  
 **Semester:** Fall 2025  
 
 **Meeting time:** Fridays 12:45 pm – 3:15 pm  
