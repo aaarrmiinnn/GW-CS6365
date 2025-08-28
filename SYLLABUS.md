@@ -30,9 +30,9 @@ Average minimum amount of independent (out-of-class) learning expected per week:
 
 | Criteria | Weight |
 |----------|--------|
-| 12 quizzes in class. Lowest 3 scores will be dropped. Quizzes are **in-person** and must be taken in the classroom by the student, without the use of any external notes or tools. | 30% |
+| 12 quizzes in class. Lowest 3 scores will be dropped. Quizzes are **in-person** and must be taken in the classroom by the student, without the use of any external notes or tools. | 40% |
 | 2 or more homework assignments | 30% |
-| Final group project (groups of 2). Includes a **mid-semester presentation** and a **final presentation**. | 40% |
+| Final group project (groups of 2). Includes a **mid-semester presentation** and a **final presentation**. | 30% |
 
 **Final grade thresholds (no harsher than):**  
 - 90% → A- or better  
