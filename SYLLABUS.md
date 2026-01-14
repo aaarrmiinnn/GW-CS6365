@@ -2,11 +2,11 @@
 
 **Course Numbers:** CSCI-4907-87 / CSCI-6365-80  
 **Alternative Name:** Advanced Topics Computer Science  
-**Semester:** Fall 2025  
+**Semester:** Spring 2026  
 
 **Meeting time:** Fridays 12:45 pm – 3:15 pm  
 
-**Location:** 1957 E Street, Room 214  
+**Location:** Tompkins Hall 309  
 
 **Instructors:**  
 - Sardar Hamidian (sardar@gwu.edu)  
@@ -69,25 +69,25 @@ Average minimum amount of independent (out-of-class) learning expected per week:
 
 ---
 
-## Class Dates (Fall 2025)
+## Class Dates (Spring 2026)
 
-Fridays, 12:45 pm – 3:15 pm, **1957 E Street Room 214**
+Fridays, 12:45 pm – 3:15 pm, **Tompkins Hall 309**
 
-- 2025-08-29  
-- 2025-09-05  
-- 2025-09-12  
-- 2025-09-19  
-- 2025-09-26  
-- 2025-10-03  
-- ~~2025-10-10~~ (Fall Break, no class)  
-- 2025-10-17  
-- 2025-10-24  
-- 2025-10-31  
-- 2025-11-07  
-- 2025-11-14  
-- 2025-11-21  
-- 2025-11-28  
-- 2025-12-05  
+- 2026-01-16
+- 2026-01-23
+- 2026-01-30
+- 2026-02-06
+- 2026-02-13
+- 2026-02-20
+- 2026-02-27
+- 2026-03-06
+- ~~2026-03-13~~ (Spring Break, no class)
+- 2026-03-20
+- 2026-03-27
+- 2026-04-03
+- 2026-04-10
+- 2026-04-17
+- 2026-04-24  
 
 ---
 
